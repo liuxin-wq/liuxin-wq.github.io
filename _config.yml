@@ -6,7 +6,7 @@ email: yuyuw759@gmail.com
 description: "life, how lonely like snow."
 keyword: "lx, lx Blog, 刘信的博客, liuxin, 刘信, iOS, Apple, iPhone"
 url: "http://liuxin-wq.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
@@ -45,18 +45,6 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
-
-
-
-
-
-
-
-
-# Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
